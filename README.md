@@ -2,6 +2,24 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
+###Download zip file.
+
+###Decompress.
+
+###Open Node in decompressed directory.
+
+###Run:
+
+1. npm install
+
+2. npm start
+
+3. Go to URL localhost:4200
+
+###Creates an Angular 17 web site with routing (Home, About Us pages), search bar, and is mobile responsive.
+
+###Uses Bootstrap 5, Angular 17, TypeScript, Javascript, CSS3, HTML5.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
