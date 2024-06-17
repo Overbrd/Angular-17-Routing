@@ -2,13 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
-##Download zip file.
+### Download zip file.
 
-##Decompress.
+### Decompress.
 
-##Open Node in decompressed directory.
+### Open Node in decompressed directory.
 
-##Run:
+### Run:
 
 1. npm install
 
@@ -16,9 +16,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 3. Go to URL localhost:4200
 
-###Creates an Angular 17 web site with routing (Home, About Us pages), search bar, and is mobile responsive.
+### Creates an Angular 17 web site with routing (Home, About Us pages), search bar, and is mobile responsive.
 
-###Uses Bootstrap 5, Angular 17, TypeScript, Javascript, CSS3, HTML5.
+### Uses Bootstrap 5, Angular 17, TypeScript, Javascript, CSS3, HTML5.
 
 ## Development server
 
